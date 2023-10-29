@@ -32,8 +32,9 @@ int main()
 
     cout << nextTerm << " ";
   }
-  
-  cout << "Sum: " << sum;
+
+  cout << "\n"
+       << sum;
 
   return 0;
 }

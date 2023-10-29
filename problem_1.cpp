@@ -13,6 +13,8 @@ int main()
     cout << i << " ";
   }
 
+  cout << "\n";
+
   for (int i = 2; i <= n; i += 2)
   {
     cout << i << " ";

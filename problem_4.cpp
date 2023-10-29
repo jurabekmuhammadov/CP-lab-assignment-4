@@ -14,14 +14,14 @@ int main()
     sum += n / 10;
   }
 
-  cout << sum;
+  cout << sum << "\n";
 
   if (sum % 5 == 0)
   {
-    cout << " Yes";
+    cout << "Yes";
   }
   else
   {
-    cout << " No";
+    cout << "No";
   }
 }
